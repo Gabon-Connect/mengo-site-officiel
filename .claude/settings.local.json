@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import docx; print\\('python-docx ok'\\)\")",
+      "Bash(pip3 show *)",
+      "Bash(libreoffice --headless --convert-to txt \"CAHIER DES CHARGES – SITE VITRINE DMS.docx\" --outdir /tmp/)",
+      "Bash(mkdir -p /home/mawuva/workshop/workspace/codes/projects/gabon-connect/dms/css)",
+      "Bash(mkdir -p /home/mawuva/workshop/workspace/codes/projects/gabon-connect/dms/js)",
+      "Bash(cp '__TRACKED_VAR__/WhatsApp Image 2026-06-01 at 11.03.07.jpeg' __TRACKED_VAR__/director-suit.jpg)",
+      "Bash(cp '__TRACKED_VAR__/WhatsApp Image 2026-06-01 at 11.03.07 \\(1\\).jpeg' __TRACKED_VAR__/team-caistab-1.jpg)",
+      "Bash(cp '__TRACKED_VAR__/WhatsApp Image 2026-06-01 at 11.03.07 \\(2\\).jpeg' __TRACKED_VAR__/agent-dms.jpg)",
+      "Read(//home/mawuva/.claude/plugins/cache/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/ui-ux-pro-max/**)",
+      "Bash(python3 scripts/search.py \"premium dark security corporate luxury storytelling cinematic\" --design-system -p \"DMS Delta Manga Sécurité\" -f markdown)",
+      "Bash(python3 scripts/search.py \"dark mode animation luxury cinematic scroll reveal glassmorphism\" --domain style -n 5)",
+      "Bash(python3 scripts/search.py \"scroll animation reveal counter parallax micro-interaction\" --domain ux -n 5)",
+      "Bash(command -v docx2txt)",
+      "Bash(docx2txt /home/mawuva/workshop/workspace/codes/projects/gabon-connect/dms-2/assets/\"CAHIER DES CHARGES – SITE VITRINE DMS.docx\" /tmp/cdc.txt)",
+      "Read(//tmp/**)",
+      "Bash(python3 scripts/search.py \"dark editorial security authority trust\" --domain style -n 3)",
+      "Bash(python3 scripts/search.py \"security service landing hero\" --domain landing -n 3)"
+    ]
+  }
+}

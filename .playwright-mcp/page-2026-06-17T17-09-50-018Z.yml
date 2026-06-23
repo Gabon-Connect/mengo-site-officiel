@@ -1,0 +1,273 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic [ref=e2]:
+      - img "DMS" [ref=e4]
+      - paragraph [ref=e7]: Delta Manga Sécurité
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - link "DMS Logo D.M.S" [ref=e10] [cursor=pointer]:
+          - /url: index.html
+          - img "DMS Logo" [ref=e11]
+          - generic [ref=e12]: D.M.S
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Accueil" [ref=e15] [cursor=pointer]:
+              - /url: index.html
+          - listitem [ref=e16]:
+            - link "À propos" [ref=e17] [cursor=pointer]:
+              - /url: a-propos.html
+          - listitem [ref=e18]:
+            - link "Services" [ref=e19] [cursor=pointer]:
+              - /url: services.html
+          - listitem [ref=e20]:
+            - link "Pourquoi DMS" [ref=e21] [cursor=pointer]:
+              - /url: pourquoi-dms.html
+          - listitem [ref=e22]:
+            - link "Contact" [ref=e23] [cursor=pointer]:
+              - /url: contact.html
+        - button "Changer de thème" [ref=e24] [cursor=pointer]:
+          - img
+        - link "Devis gratuit" [ref=e25] [cursor=pointer]:
+          - /url: contact.html
+          - img [ref=e26]
+          - text: Devis gratuit
+    - generic [ref=e28]:
+      - link "Accueil" [ref=e29] [cursor=pointer]:
+        - /url: index.html
+      - link "À propos" [ref=e30] [cursor=pointer]:
+        - /url: a-propos.html
+      - link "Services" [ref=e31] [cursor=pointer]:
+        - /url: services.html
+      - link "Pourquoi DMS" [ref=e32] [cursor=pointer]:
+        - /url: pourquoi-dms.html
+      - link "Contact" [ref=e33] [cursor=pointer]:
+        - /url: contact.html
+      - link "Devis gratuit" [ref=e34] [cursor=pointer]:
+        - /url: contact.html
+  - generic [ref=e35]:
+    - img [ref=e37]
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - link "Accueil" [ref=e43] [cursor=pointer]:
+          - /url: index.html
+        - generic [ref=e44]: /
+        - generic [ref=e45]: À propos
+      - heading "Notre histoire, notre engagement" [level=1] [ref=e46]:
+        - text: Notre histoire,
+        - text: notre engagement
+      - paragraph [ref=e47]: Depuis notre fondation, DMS s'est engagée à offrir les meilleurs services de sécurité privée adaptés aux réalités du Gabon.
+  - generic [ref=e50]:
+    - generic [ref=e52]:
+      - img "Directeur DMS" [ref=e53]
+      - img "Réunion DMS" [ref=e54]
+      - generic [ref=e55]:
+        - img [ref=e56]
+        - generic [ref=e58]:
+          - strong [ref=e59]: +5 ans
+          - text: d'excellence
+    - generic [ref=e60]:
+      - paragraph [ref=e61]: Qui sommes-nous
+      - heading "Delta Manga Sécurité" [level=2] [ref=e62]:
+        - text: Delta Manga
+        - text: Sécurité
+      - paragraph [ref=e63]:
+        - strong [ref=e64]: Delta Manga Sécurité (DMS)
+        - text: est une entreprise gabonaise spécialisée dans la sécurité privée, la protection des personnes et des biens, et le placement de personnel qualifié.
+      - paragraph [ref=e65]: Basée à Libreville / Owendo, sous la direction de M. Matha Akombi Stevie, nous plaçons l'engagement, la rigueur et la proximité au cœur de notre métier.
+      - paragraph [ref=e66]: Notre objectif est d'offrir des prestations fiables, encadrées, et adaptées aux réalités du terrain, car la sécurité privée c'est le rempart silencieux qui protège nos vies et nos biens.
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e69]: "0"
+          - text: Disponibilité
+        - generic [ref=e70]:
+          - generic [ref=e71]: "0"
+          - text: Services
+        - generic [ref=e72]:
+          - generic [ref=e73]: "0"
+          - text: Gabonais
+  - generic [ref=e75]:
+    - generic [ref=e76]:
+      - paragraph [ref=e77]: Ce qui nous guide
+      - heading "Mission, Vision & Valeurs" [level=2] [ref=e78]
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - img [ref=e82]
+        - heading "Notre Mission" [level=3] [ref=e85]
+        - paragraph [ref=e86]: Offrir des prestations de sécurité fiables, encadrées et adaptées aux réalités du terrain gabonais. Être le partenaire de confiance qui protège personnes et biens avec rigueur et professionnalisme.
+      - generic [ref=e87]:
+        - img [ref=e89]
+        - heading "Notre Vision" [level=3] [ref=e92]
+        - paragraph [ref=e93]: Devenir la référence nationale en matière de sécurité privée au Gabon, reconnue pour l'excellence de ses équipes, la qualité de ses prestations et son ancrage local profond.
+      - generic [ref=e94]:
+        - img [ref=e96]
+        - heading "Nos Valeurs" [level=3] [ref=e98]
+        - paragraph [ref=e99]: "Courage, Loyauté, Dévouement, Professionnalisme et Vigilance : cinq piliers qui guident chaque agent DMS dans chaque intervention, chaque veille, chaque mission."
+  - generic [ref=e102]:
+    - generic [ref=e103]:
+      - paragraph [ref=e104]: Nos piliers
+      - heading "Ce que nous incarnons" [level=2] [ref=e105]
+      - paragraph [ref=e106]: Chaque valeur n'est pas un mot affiché sur un mur. C'est un engagement quotidien traduit en actes sur le terrain.
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - img [ref=e110]
+        - generic [ref=e112]:
+          - heading "Courage" [level=4] [ref=e113]
+          - paragraph [ref=e114]: Intervenir avec bravoure dans toutes les situations, même les plus difficiles.
+      - generic [ref=e115]:
+        - img [ref=e117]
+        - generic [ref=e119]:
+          - heading "Loyauté" [level=4] [ref=e120]
+          - paragraph [ref=e121]: Un engagement indéfectible envers nos clients, nos équipes et notre entreprise.
+      - generic [ref=e122]:
+        - img [ref=e124]
+        - generic [ref=e127]:
+          - heading "Dévouement" [level=4] [ref=e128]
+          - paragraph [ref=e129]: Chaque mission menée avec rigueur, passion et sens du service.
+      - generic [ref=e130]:
+        - img [ref=e132]
+        - generic [ref=e135]:
+          - heading "Professionnalisme" [level=4] [ref=e136]
+          - paragraph [ref=e137]: Recrutement rigoureux, formation continue et standards d'excellence élevés.
+      - generic [ref=e138]:
+        - img [ref=e140]
+        - generic [ref=e143]:
+          - heading "Vigilance" [level=4] [ref=e144]
+          - paragraph [ref=e145]: Une attention constante et soutenue, de jour comme de nuit, sans jamais relâcher.
+  - generic [ref=e147]:
+    - generic [ref=e148]:
+      - paragraph [ref=e149]: Leadership
+      - heading "Notre direction" [level=2] [ref=e150]
+    - generic [ref=e151]:
+      - img "M. Matha Akombi Stevie" [ref=e153]
+      - generic [ref=e155]:
+        - heading "M. Matha Akombi Stevie" [level=3] [ref=e156]
+        - paragraph [ref=e157]: Président Directeur Général — Delta Manga Sécurité
+        - blockquote [ref=e158]: "\"Chez DMS, protéger c'est servir avec courage, loyauté et dévouement. Chaque veille, chaque intervention, traduit un engagement profond pour la sérénité de tous ceux sur qui nous veillons. Parce que la sécurité privée, c'est le rempart silencieux qui protège nos vies et nos biens.\""
+        - generic [ref=e159]:
+          - img "Événement DMS" [ref=e160]
+          - img "Événement DMS" [ref=e161]
+  - generic [ref=e163]:
+    - generic [ref=e164]:
+      - paragraph [ref=e165]: Nos équipes
+      - heading "Les sentinelles DMS" [level=2] [ref=e166]
+      - paragraph [ref=e167]: Des professionnels formés, engagés et fiers de servir le Gabon.
+    - generic [ref=e168]:
+      - generic [ref=e169]:
+        - generic [ref=e170]:
+          - img "Équipe DMS Caistab" [ref=e171]
+          - paragraph [ref=e173]: Équipe Caistab
+        - generic [ref=e174]:
+          - heading "Équipe Caistab" [level=4] [ref=e175]
+          - generic [ref=e176]: Surveillance
+      - generic [ref=e177]:
+        - generic [ref=e178]:
+          - img "Équipe DMS" [ref=e179]
+          - paragraph [ref=e181]: Agents certifiés
+        - generic [ref=e182]:
+          - heading "Agents certifiés" [level=4] [ref=e183]
+          - generic [ref=e184]: Formation continue
+      - generic [ref=e185]:
+        - generic [ref=e186]:
+          - img "Équipe DMS Mouila" [ref=e187]
+          - paragraph [ref=e189]: Équipe Mouila
+        - generic [ref=e190]:
+          - heading "Équipe Mouila" [level=4] [ref=e191]
+          - generic [ref=e192]: Intervention
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - img "Équipe DMS terrain" [ref=e195]
+          - paragraph [ref=e197]: Opérations terrain
+        - generic [ref=e198]:
+          - heading "Opérations terrain" [level=4] [ref=e199]
+          - generic [ref=e200]: Patrouilles
+      - generic [ref=e201]:
+        - generic [ref=e202]:
+          - img "Agent DMS" [ref=e203]
+          - paragraph [ref=e205]: Agents & cynophiles
+        - generic [ref=e206]:
+          - heading "Agents & cynophiles" [level=4] [ref=e207]
+          - generic [ref=e208]: Spécialisés
+  - generic [ref=e211]:
+    - generic [ref=e212]:
+      - heading "Rejoignez la famille DMS" [level=2] [ref=e213]
+      - paragraph [ref=e214]: Découvrez nos services ou contactez-nous pour un devis personnalisé
+    - generic [ref=e215]:
+      - link "Nos services" [ref=e216] [cursor=pointer]:
+        - /url: services.html
+      - link "Nous contacter" [ref=e217] [cursor=pointer]:
+        - /url: contact.html
+  - contentinfo [ref=e219]:
+    - generic [ref=e220]:
+      - generic [ref=e221]:
+        - generic [ref=e222]:
+          - generic [ref=e223]:
+            - img "DMS" [ref=e224]
+            - generic [ref=e225]: D.M.S
+          - paragraph [ref=e226]: Delta Manga Sécurité — votre partenaire de confiance pour la protection des personnes et des biens au Gabon.
+          - generic [ref=e228]: Disponible 24h/24 · 7j/7
+        - generic [ref=e230]:
+          - paragraph [ref=e231]: Navigation
+          - list [ref=e232]:
+            - listitem [ref=e233]:
+              - link "Accueil" [ref=e234] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e235]:
+              - link "À propos" [ref=e236] [cursor=pointer]:
+                - /url: a-propos.html
+            - listitem [ref=e237]:
+              - link "Nos services" [ref=e238] [cursor=pointer]:
+                - /url: services.html
+            - listitem [ref=e239]:
+              - link "Pourquoi DMS" [ref=e240] [cursor=pointer]:
+                - /url: pourquoi-dms.html
+            - listitem [ref=e241]:
+              - link "Contact" [ref=e242] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e243]:
+          - paragraph [ref=e244]: Services
+          - list [ref=e245]:
+            - listitem [ref=e246]:
+              - link "Surveillance humaine" [ref=e247] [cursor=pointer]:
+                - /url: services.html
+            - listitem [ref=e248]:
+              - link "Sécurité mobile" [ref=e249] [cursor=pointer]:
+                - /url: services.html
+            - listitem [ref=e250]:
+              - link "Contrôle d'accès" [ref=e251] [cursor=pointer]:
+                - /url: services.html
+            - listitem [ref=e252]:
+              - link "Placement personnel" [ref=e253] [cursor=pointer]:
+                - /url: services.html
+            - listitem [ref=e254]:
+              - link "Systèmes de sécurité" [ref=e255] [cursor=pointer]:
+                - /url: services.html
+        - generic [ref=e256]:
+          - paragraph [ref=e257]: Contact
+          - generic [ref=e258]:
+            - img [ref=e259]
+            - generic [ref=e261]:
+              - link "+241 (0) 65 08 26 82" [ref=e262] [cursor=pointer]:
+                - /url: tel:+24165082682
+              - link "+241 (0) 76 44 34 24" [ref=e263] [cursor=pointer]:
+                - /url: tel:+24176443424
+          - generic [ref=e264]:
+            - img [ref=e265]
+            - link "samyrmatha.akombi@gmail.com" [ref=e268] [cursor=pointer]:
+              - /url: mailto:samyrmatha.akombi@gmail.com
+          - generic [ref=e269]:
+            - img [ref=e270]
+            - text: Libreville / Owendo, Gabon
+      - generic [ref=e273]:
+        - paragraph [ref=e274]: © 2025 Delta Manga Sécurité — Tous droits réservés
+        - generic [ref=e275]:
+          - link "Mentions légales" [ref=e276] [cursor=pointer]:
+            - /url: mentions-legales.html
+          - link "Confidentialité" [ref=e277] [cursor=pointer]:
+            - /url: confidentialite.html
+  - generic [ref=e278]:
+    - link "WhatsApp" [ref=e279] [cursor=pointer]:
+      - /url: https://wa.me/24165082682
+      - img [ref=e280]
+    - link "Appeler" [ref=e282] [cursor=pointer]:
+      - /url: tel:+24165082682
+      - img [ref=e283]
