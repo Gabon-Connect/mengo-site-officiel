@@ -134,62 +134,8 @@ const DMS_FLOATS = `
 </div>
 `;
 
-/* ── Structured Data (JSON-LD) ──────────────────────────── */
-const DMS_SCHEMA = {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "@id": "https://www.dms-gabon.com/#organization",
-  "name": "Delta Manga Sécurité",
-  "alternateName": "DMS",
-  "url": "https://www.dms-gabon.com/",
-  "logo": "https://www.dms-gabon.com/assets/img/logo-dms.jpg",
-  "image": "https://www.dms-gabon.com/assets/img/og-image.jpg",
-  "description": "Delta Manga Sécurité est une entreprise gabonaise spécialisée dans la sécurité privée, la protection des personnes et des biens, et le placement de personnel qualifié. Basée à Libreville / Owendo.",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Libreville",
-    "addressRegion": "Estuaire",
-    "addressCountry": "GA"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 0.3901,
-    "longitude": 9.4544
-  },
-  "telephone": ["+24165082682", "+24176443424"],
-  "email": "samyrmatha.akombi@gmail.com",
-  "areaServed": "Gabon",
-  "openingHours": "Mo-Su 00:00-23:59",
-  "priceRange": "$$",
-  "sameAs": [
-    "https://wa.me/24165082682"
-  ],
-  "founder": {
-    "@type": "Person",
-    "name": "Matha Akombi Stevie",
-    "jobTitle": "Président Directeur Général"
-  },
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Services de sécurité",
-    "itemListElement": [
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Surveillance et sécurité humaine" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Sécurité mobile et intervention" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Contrôle d'accès et accueil" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Placement de personnel qualifié" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Installation systèmes de sécurité" } }
-    ]
-  }
-};
-
 /* ── Inject into page ───────────────────────────────────── */
 document.addEventListener('DOMContentLoaded', () => {
-  // Structured data
-  const scriptTag = document.createElement('script');
-  scriptTag.type = 'application/ld+json';
-  scriptTag.textContent = JSON.stringify(DMS_SCHEMA);
-  document.head.appendChild(scriptTag);
-
   // Inject nav
   const navWrap = document.createElement('div');
   navWrap.innerHTML = DMS_NAV;

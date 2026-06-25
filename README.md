@@ -159,4 +159,3 @@ Le site fonctionne en **100% statique** — HTML, CSS et JS vanilla.
 ---
 
 © Delta Manga Sécurité — Tous droits réservés.
-# mengo-site-officiel

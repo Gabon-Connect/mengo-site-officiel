@@ -1,56 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.dms-gabon.com/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/og-image.jpg</image:loc>
+      <image:title>Delta Manga Sécurité — Sécurité privée au Gabon</image:title>
+      <image:caption>Entreprise de sécurité privée, gardiennage et sûreté des entreprises au Gabon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/logo-dms.jpg</image:loc>
+      <image:title>Logo Delta Manga Sécurité DMS</image:title>
+      <image:caption>Logo de l'entreprise de sécurité privée Delta Manga Sécurité Gabon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/dms-owner.png</image:loc>
+      <image:title>M. Matha Akombi Stevie — PDG Delta Manga Sécurité</image:title>
+      <image:caption>Président Directeur Général de Delta Manga Sécurité, entreprise de sécurité au Gabon</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/a-propos.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/hero-apropos.png</image:loc>
+      <image:title>Hero À propos — Delta Manga Sécurité</image:title>
+      <image:caption>Page À propos de Delta Manga Sécurité, entreprise de sécurité privée au Gabon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/director-suit.jpg</image:loc>
+      <image:title>Directeur de Delta Manga Sécurité — Matha Akombi Stevie</image:title>
+      <image:caption>Directeur et fondateur de l'entreprise de sécurité privée DMS Gabon</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/services.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/Equipe-1.jpeg</image:loc>
+      <image:title>Équipe DMS — Agents de sécurité et gardiennage Gabon</image:title>
+      <image:caption>Agents de sécurité de Delta Manga Sécurité en mission de gardiennage au Gabon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/Equipe-2.jpeg</image:loc>
+      <image:title>Équipe DMS — Patrouille mobile de sécurité Libreville</image:title>
+      <image:caption>Patrouille mobile de sécurité et intervention rapide DMS au Gabon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/agent-dms.jpg</image:loc>
+      <image:title>Agent de sécurité DMS — Gardiennage professionnel Gabon</image:title>
+      <image:caption>Agent de sécurité privée de Delta Manga Sécurité en tenue professionnelle</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dms-gabon.com/assets/img/Partenaire.jpeg</image:loc>
+      <image:title>Partenaire DMS — Systèmes de sécurité Gabon</image:title>
+      <image:caption>Partenaires de Delta Manga Sécurité pour l'installation de systèmes de sécurité</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/pourquoi-dms.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/contact.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/mentions-legales.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/confidentialite.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/cookies.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.dms-gabon.com/cgv.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
